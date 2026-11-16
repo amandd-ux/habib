@@ -1,0 +1,6 @@
+{
+  "name": "RAWAL",
+  "description": "RAWAL (روال) — Complete bilingual Persian and English daily life management application with daily setup, manual time tracking, scoring, analytics, goals, streaks, achievements, and multi-profile offline storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
